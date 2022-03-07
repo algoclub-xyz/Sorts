@@ -1,10 +1,14 @@
-# Sorts
+# Algorithms
 
-Algo Club provides different algorithms for Sorting
+Collection of all algorithms that has been presented on a platform
 
-### Implemented sorting algorithms:
+### Implemented algorithms:
 
-- Tim Sort
+- Sorting
+  - Tim Sort
+- Pattern Matching
+  - Simple Matching
+  - Rabin-Karp
 
 ### License 
 
