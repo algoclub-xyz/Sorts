@@ -1,6 +1,6 @@
 package com.github.algoclub.pattern_matching;
 
-public class RabinKarpMatcher implements PatternMatcher {
+public final class RabinKarpMatcher implements PatternMatcher {
 
     // module, should be big enough
     private final static int Q = (int) Math.pow(2, 25);

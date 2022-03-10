@@ -1,6 +1,6 @@
 package com.github.algoclub.pattern_matching;
 
-public class SimpleMatcher implements PatternMatcher {
+public final class SimpleMatcher implements PatternMatcher {
 
     @Override
     public int find(String origin, String pattern) {
